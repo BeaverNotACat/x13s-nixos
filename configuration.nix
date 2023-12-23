@@ -2,6 +2,7 @@
   config,
   lib,
   pkgs,
+  modulesPath,
   ...
 }: {
   imports =
@@ -11,15 +12,6 @@
     ];
 
   nixpkgs.config.allowUnfree = true;
-  nixpkgs.overlays = [
-    (final: prev: {
-      qrtr = prev.callPackage <mobile-nixos/overlay/qrtr/qrtr.nix> {};
-      qmic = prev.callPackage <mobile-nixos/overlay/qrtr/qmic.nix> {};
-      rmtfs = prev.callPackage <mobile-nixos/overlay/qrtr/rmtfs.nix> {};
-      pd-mapper = final.callPackage <mobile-nixos/overlay/qrtr/pd-mapper.nix> {inherit (final) qrtr;};
-      compressFirmwareXz = lib.id; #this leaves all firmware uncompressed :) for pd-mapper
-    })
-  ];
 
   networking.hostName = "x13s";
   networking.networkmanager.enable = true;
@@ -30,12 +22,6 @@
   services.xserver.displayManager.gdm.enable = true;
   services.xserver.desktopManager.gnome.enable = true;
   services.xserver.libinput.enable = true;
-
-  services.printing.enable = true;
-  services.printing.drivers = with pkgs; [
-    hplip
-    brlaser
-  ];
 
   hardware.bluetooth.enable = true;
 
@@ -105,8 +91,6 @@
     wget
     firefox
   ];
-
-  system.copySystemConfiguration = true;
 
   system.stateVersion = "23.11";
 }
