@@ -31,15 +31,15 @@
   # We can't quite move to mainline linux
   linux_x13s_pkg = { buildLinux, ... } @ args:
     buildLinux (args // rec {
-      version = "6.4.2";
+      version = "6.7.0";
       modDirVersion = lib.versions.pad 3 version;
       extraMeta.branch = lib.versions.majorMinor version;
 
       src = pkgs.fetchFromGitHub {
         owner = "jhovold";
         repo = "linux";
-        rev = "8552e6b238d8d7f2d0668d71e05a7998d889a7a0";
-        hash = "sha256-ohb7e8MSkdmQzp6g+Ulsq7ylJ4CGAIGyqPLxvX0ZkSI=";
+        rev = "70361dbe4c3ca972cba6adaea3e08419978644f5";
+        hash = "sha256-7LSxxXtTitbBKFlFJtlfhBgY6Ld0/1cbP3SBAk15ZRc=";
       };
       kernelPatches = (args.kernelPatches or [ ]) ++ kp;
     } // (args.argsOverride or { }));
@@ -47,7 +47,7 @@
   # we add additional configuration on top of te normal configuration above
   # using the extraStructuredConfig option on the kernel patch
   linux_x13s = pkgs.callPackage linux_x13s_pkg {
-    defconfig = "defconfig";
+    defconfig = "johan_defconfig";
   };
 
   uncompressed-fw = pkgs.callPackage
@@ -77,7 +77,7 @@
   linuxPackages_x13s = pkgs.linuxPackagesFor linux_x13s;
   dtb = "${linuxPackages_x13s.kernel}/dtbs/qcom/sc8280xp-lenovo-thinkpad-x13s.dtb";
 
-  dtbName = "x13s63rc4.dtb";
+  dtbName = "x13s-${linuxPackages_x13s.kernel.version}.dtb";
 in {
   boot = {
     loader.systemd-boot.enable = true;
@@ -94,9 +94,12 @@ in {
       "clk_ignore_unused"
       "pd_ignore_unused"
       "arm64.nopauth"
+      "efi=noruntime"
       "cma=128M"
       "nvme.noacpi=1"
       "iommu.strict=0"
+      "modprobe.blacklist=qcom_q6v5_pas" # for usb boot
+      "console=tty0"
       "dtb=${dtbName}"
     ];
     initrd = {
@@ -118,7 +121,7 @@ in {
         "i2c-hid"
         "i2c-hid-of"
         "i2c-qcom-geni"
-        "pcie-qcom"
+        # "pcie-qcom"
         "phy-qcom-qmp-combo"
         "phy-qcom-qmp-pcie"
         "phy-qcom-qmp-usb"
