@@ -7,48 +7,6 @@
   ...
 }: let
   inherit (config.boot.loader) efi;
-  kp = [
-    {
-      name = "x13s-cfg";
-      patch = null;
-      extraStructuredConfig = with lib.kernel; {
-        EFI_ARMSTUB_DTB_LOADER = lib.mkForce yes;
-        OF_OVERLAY = lib.mkForce yes;
-        MEDIA_CONTROLLER = lib.mkForce yes;
-        SND_USB_AUDIO_USE_MEDIA_CONTROLLER = lib.mkForce yes;
-        SND_USB = lib.mkForce yes;
-        SND_USB_AUDIO = lib.mkForce module;
-        USB_XHCI_PCI = lib.mkForce module;
-        NO_HZ_FULL = lib.mkForce yes;
-        HZ_100 = lib.mkForce yes;
-        HZ_250 = lib.mkForce no;
-        DRM_AMDGPU = lib.mkForce no;
-        DRM_NOUVEAU = lib.mkForce no;
-      };
-    }
-  ];
-
-  # We can't quite move to mainline linux
-  linux_x13s_pkg = { buildLinux, ... } @ args:
-    buildLinux (args // rec {
-      version = "6.7.0";
-      modDirVersion = lib.versions.pad 3 version;
-      extraMeta.branch = lib.versions.majorMinor version;
-
-      src = pkgs.fetchFromGitHub {
-        owner = "jhovold";
-        repo = "linux";
-        rev = "70361dbe4c3ca972cba6adaea3e08419978644f5";
-        hash = "sha256-7LSxxXtTitbBKFlFJtlfhBgY6Ld0/1cbP3SBAk15ZRc=";
-      };
-      kernelPatches = (args.kernelPatches or [ ]) ++ kp;
-    } // (args.argsOverride or { }));
-
-  # we add additional configuration on top of te normal configuration above
-  # using the extraStructuredConfig option on the kernel patch
-  linux_x13s = pkgs.callPackage linux_x13s_pkg {
-    defconfig = "johan_defconfig";
-  };
 
   uncompressed-fw = pkgs.callPackage
     ({ lib, runCommand, buildEnv, firmwareFilesList }:
@@ -74,8 +32,9 @@
       firmwareFilesList = lib.flatten options.hardware.firmware.definitions;
     };
 
-  linuxPackages_x13s = pkgs.linuxPackagesFor linux_x13s;
+  linuxPackages_x13s = pkgs.linuxKernel.packageAliases.linux_latest;
   dtb = "${linuxPackages_x13s.kernel}/dtbs/qcom/sc8280xp-lenovo-thinkpad-x13s.dtb";
+  linuxPackage = pkgs.linuxKernel.packageAliases.linux_latest;
 
   dtbName = "x13s-${linuxPackages_x13s.kernel.version}.dtb";
 in {
@@ -159,4 +118,3 @@ in {
   hardware.enableAllFirmware = true;
   hardware.firmware = [pkgs.linux-firmware (pkgs.callPackage ./pkgs/x13s-firmware.nix {})];
 }
-
