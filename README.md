@@ -43,3 +43,15 @@ option. One can use `mkpasswd` after using `nixos-enter` as included in the nixo
 8. Use `nixos-install` to install NixOS
 9. Use `nixos-enter` to temporarily access the system for initial configuration
 10. Change your password using the `passwd` command
+
+# Using USB test drive using flakes
+
+1. Install a WSL distribution
+2. Install nix in WSL (one may need to rebuild the kernel. testing needs to be done)
+3. Enable `kvm` and `big-parallel` system features in `/etc/nix/nix.conf`
+    `system-features = kvm big-parallel`
+4. Enable `nix-command`, `flakes`, `repl-flake` experimental features in `/etc/nix/nix.conf`
+    `experimental-features = nix-command flakes repl-flake`
+5. Use `nix build` to create the OS image
+    `nix build .#x13s --print-out-paths --no-link`
+6. Use rufus to write the image to your USB drive
