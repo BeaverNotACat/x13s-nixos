@@ -1,0 +1,1748 @@
+[
+  {
+    "Summary": "System Update enables IT administrators to distribute updates for software, drivers, and BIOS in a managed environment from a local server.",
+    "Title": "Lenovo System Update for Windows 11, 10 & 7 (32-bit, 64-bit) - Desktop, Notebook, Workstation",
+    "Files": [
+      {
+        "Name": "Lenovo System Update",
+        "TypeString": "EXE",
+        "SHA256": "e66794dc561a3e58e3dc68556eb053ee32b674ac9d99638e473ef7322f353e0d",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.08.03.59.exe",
+        "Version": "5.08.03.59",
+        "Date": {
+          "Unix": 1722348780000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "1f0c6e404aa47d7ed24673c908ab1c7a81b26e7debe741ad1cf0a2e8d0e9f152",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.08.03.59.txt",
+        "Version": "5.08.03.59",
+        "Date": {
+          "Unix": 1722348840000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "NOTE: Lenovo Solution Center Lite has ended the support effective from August 2023. It's highly recommended to switch to Lenovo Diagnostic for Windows 11 & 10 or Lenovo Vantage (pre-loaded on the system).",
+    "Title": "Lenovo Solution Center Lite for Windows 11 (64-bit), 10 (64-bit), 7 (64-bit) - Desktops, Notebooks, Workstations",
+    "Files": []
+  },
+  {
+    "Summary": "This package updates the Lenovo System Interface Foundation to fix problems, add new   functions, or expand functions.",
+    "Title": "Lenovo System Interface Foundation for Windows 11 (64-bit), 10 (32-bit, 64-bit) - ThinkPad, ThinkCentre, IdeaPad, IdeaCentre, ThinkStation",
+    "Files": [
+      {
+        "Name": "Lenovo System Interface Foundation",
+        "TypeString": "EXE",
+        "SHA256": "572381806d9500bc243dead0e2083f619435fd55307ad1ae2aaaec46fa49a36a",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/sif11ww203.exe",
+        "Version": "1.1.20.3",
+        "Date": {
+          "Unix": 1640156760000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "0b9eb0f8812d43331c046ded58168fccde77e10340ab9acedb17adce88b98563",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/sif11ww203.txt",
+        "Version": "1.1.20.3",
+        "Date": {
+          "Unix": 1640156820000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Note: Lenovo Solution Center has ended support effective 2019-04, it is highly recommended to change over to Lenovo Vantage (Pre-loaded on your PC) or to Lenovo Diagnostic if the OS is Windows 10 or to Lenovo Diagnostic for Windows 7.",
+    "Title": "Lenovo Solution Center for Windows 7 (32-bit) - Desktops, Notebooks, Workstations",
+    "Files": []
+  },
+  {
+    "Summary": "Lenovo Diagnostics Evolution is a diagnostic tool that diagnosis different components in Lenovo computers providing feedback to the users about their machine’s health.",
+    "Title": "Lenovo Diagnostics for Windows - Desktops, Notebooks, Workstations",
+    "Files": [
+      {
+        "Name": "Lenovo Diagnostics for Windows ARM",
+        "TypeString": "EXE",
+        "SHA256": "73aa341d340125695f1ba0c7d228505f4b7b761d7f07c0cb3557f814385d5847",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_1.7.3_windows_arm64.exe",
+        "Version": "1.7.3",
+        "Date": {
+          "Unix": 1729080360000
+        }
+      },
+      {
+        "Name": "Release Notes for Windows ARM",
+        "TypeString": "TXT README",
+        "SHA256": "65be2125d4a999d9fafc5fe576e1e099e5e7f90fbde91897149d5f12ea51b709",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_1.7.3_release_notes.txt",
+        "Version": "1.7.3",
+        "Date": {
+          "Unix": 1729080240000
+        }
+      },
+      {
+        "Name": "User Guide for Windows ARM",
+        "TypeString": "PDF",
+        "SHA256": "5e7e6257d75fefc2c1366a89d1a8be36973717e561a8a084dae7131d342a8737",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_1.7.3_userguide.pdf",
+        "Version": "1.7.3",
+        "Date": {
+          "Unix": 1729080540000
+        }
+      },
+      {
+        "Name": "Lenovo Diagnostics for Windows",
+        "TypeString": "EXE",
+        "SHA256": "9dfc912857f211c84cfd60193aad21d0ae9a968937b80f8dd5f02780e1a4b569",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_5.23.2_windows_x64.exe",
+        "Version": "5.23.2",
+        "Date": {
+          "Unix": 1758269400000
+        }
+      },
+      {
+        "Name": "Release Notes",
+        "TypeString": "TXT README",
+        "SHA256": "005dd6264f2f9ad44ef592955ee3af7514568c0fa32c3427575a476b7838b595",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_5.23.2_windows_release_notes.txt",
+        "Version": "5.23.2",
+        "Date": {
+          "Unix": 1758269640000
+        }
+      },
+      {
+        "Name": "User Guide",
+        "TypeString": "PDF",
+        "SHA256": "c905fa500d433b2f43b412a6bee7f208e31f7625b636211b58aeadc19f676326",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_5.23.2_windows_user_guide.pdf",
+        "Version": "5.23.2",
+        "Date": {
+          "Unix": 1758269700000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Lenovo Diagnostic UEFI Bootable Versions",
+    "Title": "Lenovo UEFI Diagnostics - Bootable USB (Create it on Windows OS) - Desktops, Notebooks, Workstations",
+    "Files": [
+      {
+        "Name": "Lenovo Diagnostics UEFI (x64)",
+        "TypeString": "zip",
+        "SHA256": "f139b3025459e12eee8e7e1e69d981b251987217998b53cda0e2c7bffb92d41f",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_04.44.000_bootable_uefi_x64.zip",
+        "Version": "04.44.000",
+        "Date": {
+          "Unix": 1763472480000
+        }
+      },
+      {
+        "Name": "User Guide for x64",
+        "TypeString": "PDF",
+        "SHA256": "d5bc4bffd5650f3f0f667320d466efe03faf74899aa871a98f097e4282742655",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_04.44.000_bootable_uefi_x64_userguide.pdf",
+        "Version": "04.44.000",
+        "Date": {
+          "Unix": 1763472540000
+        }
+      },
+      {
+        "Name": "Lenovo Diagnostics UEFI (ARM)",
+        "TypeString": "zip",
+        "SHA256": "6d32e1833838ef6fa54ae12da413cb608f296e0f350d83aeb5141d9049e1032a",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_04.44.000_bootable_uefi_arm.zip",
+        "Version": "04.44.000",
+        "Date": {
+          "Unix": 1763472600000
+        }
+      },
+      {
+        "Name": "User Guide for ARM",
+        "TypeString": "PDF",
+        "SHA256": "277df3f91d66ce2a0f39a9210927af14b96c6b6d2e722e77399eaf50ed0768f9",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_04.44.000_bootable_uefi_arm_userguide.pdf",
+        "Version": "04.44.000",
+        "Date": {
+          "Unix": 1763472660000
+        }
+      },
+      {
+        "Name": "Release Notes",
+        "TypeString": "TXT README",
+        "SHA256": "f936d60086670d9b2f53b40469f90d9f7a2e0af58e21b2fa3997e08c78657360",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_04.44.000_bootable_uefi_releasenotes.txt",
+        "Version": "04.44.000",
+        "Date": {
+          "Unix": 1763472660000
+        }
+      },
+      {
+        "Name": "Lenovo Bootable Generator",
+        "TypeString": "EXE",
+        "SHA256": "80fd3a021d4156a0bd8aea7b38c0c48168647bba8fcf3343b1ccbd6367387cbb",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/lenovo_bootable_generator2.1.1.exe",
+        "Version": "2.1.1",
+        "Date": {
+          "Unix": 1574218860000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Lenovo Diagnostics Linux Bootable Versions",
+    "Title": "Lenovo Linux Diagnostics - Bootable USB (Create it on Windows OS) - Desktops, Notebooks, Workstations",
+    "Files": [
+      {
+        "Name": "Lenovo Bootable Generator",
+        "TypeString": "EXE",
+        "SHA256": "80fd3a021d4156a0bd8aea7b38c0c48168647bba8fcf3343b1ccbd6367387cbb",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/lenovo_bootable_generator2.1.1.exe",
+        "Version": "2.1.1",
+        "Date": {
+          "Unix": 1698151200000
+        }
+      },
+      {
+        "Name": "Lenovo Linux Diagnostics - Bootable CD",
+        "TypeString": "ISO",
+        "SHA256": "7889fa439433a46b7051f16f47a94ca1feeeb688db68a096e7bed0b70819a35a",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_4.63.1_linux.iso",
+        "Version": "4.63.1",
+        "Date": {
+          "Unix": 1757564700000
+        }
+      },
+      {
+        "Name": "Release Note",
+        "TypeString": "TXT README",
+        "SHA256": "eb2e69e5bb91557fc4071a2f13cd9d4951870472c996347c39388ede3b4a2dae",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_4.63.1_linux_release_notes.txt",
+        "Version": "4.63.1",
+        "Date": {
+          "Unix": 1757564760000
+        }
+      },
+      {
+        "Name": "User Guide",
+        "TypeString": "PDF",
+        "SHA256": "2e6d9d351d467967b8f92870b74ac8ec7aeea5b443c1966fbf7716217b742eeb",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/thinkvantage_en/ldiag_4.63.1_linux_user_guide.pdf",
+        "Version": "4.63.1",
+        "Date": {
+          "Unix": 1757564820000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Lenovo Message Center Plus Uninstaller - ThinkPad and ThinkCentre Systems",
+    "Title": "Lenovo Message Center Plus Uninstaller - ThinkPad and ThinkCentre Systems",
+    "Files": [
+      {
+        "Name": "Lenovo Message Center Plus Uninstaller",
+        "TypeString": "EXE",
+        "SHA256": "50ee3a51327c2526c7d9188dec99094b374c8af4d5611ec155d409a15da020d1",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/mcpuninstaller11.exe",
+        "Version": "1.1.0.0",
+        "Date": {
+          "Unix": 1499385600000
+        }
+      },
+      {
+        "Name": "README for Lenovo Message Center Plus Uninstaller",
+        "TypeString": "TXT README",
+        "SHA256": "630389b0412ce1298d20b9e648dea8011f36f5cc3ac9665391967eb969d5366c",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/mcpuninstaller11.txt",
+        "Version": "1.1.0.0",
+        "Date": {
+          "Unix": 1499385600000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Smart display is new PC app that allows users to easily manage the layout of various Windows applications residing in various displays. ",
+    "Title": "Lenovo Smart Display Applications for Windows 10 (32-bit, 64-bit) - Desktop, Notebook",
+    "Files": [
+      {
+        "Name": "Smart Display",
+        "TypeString": "",
+        "SHA256": "31c418a654b9b9804edbd457376203915ca5b9d50fd50b6c365f16e2c51cb0bb",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/consumer/mobiles/MSStoreSmartDisplays.msixbundle",
+        "Version": "1.0.0.10",
+        "Date": {
+          "Unix": 1617889080000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This utility will examine your system configuration and detect all NVMe Solid State Drives(SSD) installed. It will then check the firmware revision of the drive and judge whether your PC requires a firmware update or not. ",
+    "Title": "NVMe Solid State Drive Firmware Update Utility for Windows 11, 10 (64-bit) - ThinkPad",
+    "Files": [
+      {
+        "Name": "NVMe Solid State Drive Firmware Update Utility",
+        "TypeString": "EXE",
+        "SHA256": "c030171d1bb5e65b8f9b9bcd0234ba0d805f2635f6e96a5951b78064347f9a90",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/fwnva70.exe",
+        "Version": "70",
+        "Date": {
+          "Unix": 1734072420000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "c2774a7acf34a262c26d469d3c7dcacb7a86d569751f4ef7b08eaa825251572f",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/fwnva70.html",
+        "Version": "70",
+        "Date": {
+          "Unix": 1752227100000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package updates the Lenovo Migration Assistant to fix problems, add new functions, or expand functions.",
+    "Title": "Lenovo Migration Assistant for Windows 11, 10, 7 (32-bit, 64-bit) - Laptops, Desktops, Workstations",
+    "Files": [
+      {
+        "Name": "Lenovo Migration Assistant",
+        "TypeString": "EXE",
+        "SHA256": "9336bd6953a4e3b500fbf0e1e219467c6768ee48b39f580add25f6fde467393b",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/desktop/lma2146.exe",
+        "Version": "2.1.4.6",
+        "Date": {
+          "Unix": 1646790540000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "ae5f060e2fc93dc9aeb440774471444f2f4693cedacbd087debd9feafc81618e",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/desktop/lma2146.txt",
+        "Version": "2.1.4.6",
+        "Date": {
+          "Unix": 1646790600000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Firmware - ThinkPad Universal Thunderbolt 4 Dock (40B0), ThinkPad Thunderbolt 4 WorkStation Dock (40B0)",
+    "Title": "Firmware - ThinkPad Universal Thunderbolt 4 Dock (40B0), ThinkPad Thunderbolt 4 WorkStation Dock (40B0)",
+    "Files": [
+      {
+        "Name": "Firmware",
+        "TypeString": "EXE",
+        "SHA256": "76a91f442b4c0a38e66a4509a3ab0222ee4025d6ac08299b034507f5d7a92a05",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tbt4dkfw1018_3.exe",
+        "Version": "V1.0.18",
+        "Date": {
+          "Unix": 1724663880000
+        }
+      },
+      {
+        "Name": "ReadMe for Firmware",
+        "TypeString": "HTML",
+        "SHA256": "09fa3954f65aa597d4adbc9b010e392e9de8ac11cc3bdd6a2906e32be540350b",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tbt4dkfw1018_3_w10w11.html",
+        "Version": "V1.0.18",
+        "Date": {
+          "Unix": 1752051840000
+        }
+      },
+      {
+        "Name": "Readme for Driver",
+        "TypeString": "HTML",
+        "SHA256": "38c512e7388eeca10bf0fa6a3c6c77790a7cb999c2023c611d600e1be25822a2",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tbt4dkfw1018_3_w11.html",
+        "Version": "V1.0.18",
+        "Date": {
+          "Unix": 1752651660000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package installs the software (Lenovo Adaptive ICC Profile) to enable precise color calibration on supported displays by applying the Adaptive ICC Profile.",
+    "Title": "Lenovo Adaptive ICC Profile for Windows 10 (Version 21H1 or later), 11 (Version 21H2 or later) - ThinkPad",
+    "Files": [
+      {
+        "Name": "Lenovo Adaptive ICC Profile",
+        "TypeString": "EXE",
+        "SHA256": "242dbb9a3001dd732dba08ad6095da98a9bfb87ae1d90bbd5397fd93b1d97afd",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3xfz10w.exe",
+        "Version": "1.0.5.2",
+        "Date": {
+          "Unix": 1697597160000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "6da09fdaef96ce125573a1c0fd990c99456f9d15abfe6c14f66c8632559286da",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3xfz10w.html",
+        "Version": "1.0.5.2",
+        "Date": {
+          "Unix": 1758864360000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package updates is to remove the following file: C:\\Windows\\MFGSTAT.zip",
+    "Title": "Lenovo MFGSTAT Log Clean for Windows 11, 10 - All Lenovo (Think, Lenovo, Idea, Legion)",
+    "Files": [
+      {
+        "Name": "Lenovo MFGSTAT Log Clean",
+        "TypeString": "EXE",
+        "SHA256": "bcd85d7b3c483018643d4ae9c7bd6e66bd9cf8be6b7752d138f7e6ed9e37304d",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/bc9mc112.exe",
+        "Version": "1.0.0.0",
+        "Date": {
+          "Unix": 1766542272000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "19632c51443e51c3f68a5868eec2905fe922d106650c6b67fc5c4dcc869b6eb4",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/bc9mc112.html",
+        "Version": "1.0.0.0",
+        "Date": {
+          "Unix": 1766542272000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package installs the Lenovo Power Management Driver.",
+    "Title": "Lenovo Power Management Driver for Windows 11 (Version 21H2 or later) - ThinkPad",
+    "Files": [
+      {
+        "Name": "Lenovo Power Management Driver",
+        "TypeString": "EXE",
+        "SHA256": "3404c35a123611d44eb87408c076ba1cf4c1982811138197a44b177561a85a46",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n4bku11w.exe",
+        "Version": "1.69.132.0",
+        "Date": {
+          "Unix": 1768872600000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "3e05676ff9900d567da98db1894bbcef6731a9b01462a2b6931aa484cdfc94b9",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n4bku11w_w11.html",
+        "Version": "1.69.132.0",
+        "Date": {
+          "Unix": 1768872600000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This software installs the Lenovo Intelligent Thermal Solution Driver.",
+    "Title": "Lenovo Intelligent Thermal Solution Driver for Windows 11 (Version 21H2 or later) - ThinkPad",
+    "Files": [
+      {
+        "Name": "Lenovo Intelligent Thermal Solution Driver",
+        "TypeString": "EXE",
+        "SHA256": "c2e23d64fad14f341a182be28348ac210034ecee4b457b18b02a839994385c95",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n4bdy58w_2.exe",
+        "Version": "2.1.52.20",
+        "Date": {
+          "Unix": 1768237200000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "aaa1a669cecaba5659aec29563914006ef8b36478129135f51e245086f236b4f",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n4bdy58w_2_w11.html",
+        "Version": "2.1.52.20",
+        "Date": {
+          "Unix": 1768237200000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This software installs the dependency software for Power features of Lenovo Vantage and it was formerly known as Lenovo Power Manager Driver.",
+    "Title": "Lenovo Power and Battery Driver for Windows 11 (Version 21H2 or later) - ThinkPad",
+    "Files": [
+      {
+        "Name": "Lenovo Power and Battery Driver",
+        "TypeString": "EXE",
+        "SHA256": "e4ca926af32204dc8e6e07595f8d8adf1fc3700494675a26968d51ed6c734cba",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n1fupa6w.exe",
+        "Version": "10.2.4.1",
+        "Date": {
+          "Unix": 1768276320000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "b23197aca127a40f806a49d3158fddbb5e6c8423c36c590f077cda53e8dec957",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n1fupa6w_w11.html",
+        "Version": "10.2.4.1",
+        "Date": {
+          "Unix": 1768276380000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Maintenance Utility for UEFI BIOS - ThinkPad",
+    "Title": "Maintenance Utility for UEFI BIOS for Windows 11 (Version 21H2 or later), 10 (64-bit) - ThinkPad",
+    "Files": [
+      {
+        "Name": "User Guide for ThinkPad Maintenance Utility Usage",
+        "TypeString": "PDF",
+        "SHA256": "b8a0c115777bfe03f545a60eaa5fc540caa2bb36c10a239538d1e4960aedcc3f",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/think_secure/maintenance_utility_usage_v1.1.0.1.pdf?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "v1.1.0.1",
+        "Date": {
+          "Unix": 1752566880000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "29913fcbf57aef1be07b8e99594fcc72ee38b181e92c776f6ccbeb0060c34bc9",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/think_secure/n1ctm18w.html?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "v1.22",
+        "Date": {
+          "Unix": 1752565020000
+        }
+      },
+      {
+        "Name": "ThinkPad Maintenance Utility",
+        "TypeString": "zip",
+        "SHA256": "8a86c615eb8a3bda8bc970725e8b0973d9832a3f5dd5602925913666005c5383",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/think_secure/n1ctm18w.zip?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "v1.22",
+        "Date": {
+          "Unix": 1752564960000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Microsoft requested to remove Microsoft Effect Pack Arbiter from the Lenovo website.",
+    "Title": "MEP Driver for Windows 11 ARM (Version 22H2 or later) - ThinkPad X13s Gen 1",
+    "Files": []
+  },
+  {
+    "Summary": "This package provides the device drivers in .inf form for ThinkPad computers, in order to allow you to   deploy Windows images with Microsoft System Center Configuration Manager (SCCM) by importing the device   drivers.",
+    "Title": "SCCM Package for Windows PE 11 - ThinkPad X13s",
+    "Files": [
+      {
+        "Name": "SCCM package for Windows PE 11",
+        "TypeString": "EXE",
+        "SHA256": "c75e03c5286cf522024bfacfbf9f42c9e14964aaaec9ae2995b6a60813ea1877",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_8cxg3_pe11_202205.exe",
+        "Version": "01",
+        "Date": {
+          "Unix": 1653278100000
+        }
+      },
+      {
+        "Name": "README for Windows PE 11",
+        "TypeString": "TXT README",
+        "SHA256": "c4a8f839164e8fea7807763f2827f83c3b0e2f232c1e5aca9219108825196420",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_8cxg3_pe11_202205.txt",
+        "Version": "01",
+        "Date": {
+          "Unix": 1653278160000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This software enables F1-F12 special keys and buttons on your computer. For example, when the microphone mute key or button is pressed, the microphone state switches between mute and unmute.",
+    "Title": "Lenovo Base Utility for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY), T14s Gen 6 (Type 21N1, 21N2), Lenovo 10w (Type 82SU, 82ST)",
+    "Files": [
+      {
+        "Name": "Lenovo Base Utility",
+        "TypeString": "EXE",
+        "SHA256": "93383943b0d82e9edaaeb09187f8f46981b862f39c9ff62d8d813ecc124dc54b",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/r19vu18w.exe",
+        "Version": "11.8.2511.1",
+        "Date": {
+          "Unix": 1768237200000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "c80c671722bc82014bbdeef51261f8ee969757036c94a17676ea52b277cc4210",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/r19vu18w.html",
+        "Version": "11.8.2511.1",
+        "Date": {
+          "Unix": 1768237200000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package updates the UEFI BIOS (including system program and Embedded Controller program) stored in the ThinkPad computer to fix problems, add new functions, or expand functions..",
+    "Title": "BIOS Update Utility for Windows 11 ARM - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "BIOS Update Utility",
+        "TypeString": "EXE",
+        "SHA256": "8177dc8ca3970091c7ef96b9706838ce0a159541a671ef98662e0e2ab960a79b",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3huj24w.exe",
+        "Version": "1.66",
+        "Date": {
+          "Unix": 1760065020000
+        }
+      },
+      {
+        "Name": "README for BIOS Update Utility",
+        "TypeString": "HTML",
+        "SHA256": "592c25d75f25284b0e07a4469239e6d4b31b5fab04d976ee69cd64fd8bec78c0",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3huj24w.html",
+        "Version": "1.66",
+        "Date": {
+          "Unix": 1760065020000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package provides the device drivers in .inf form for ThinkPad computers, in order to allow you to deploy Windows images with Microsoft System Center Configuration Manager (SCCM) by importing the device drivers. ",
+    "Title": "SCCM Package for Windows 11 ARM (Version 21H2, 22H2, 24H2) - ThinkPad X13s (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "SCCM Package (Version 24H2)",
+        "TypeString": "EXE",
+        "SHA256": "cb545898a31b0926e23806940293bb89eaca71fc8feac0e3bec509f41db37aff",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_x13s_mt21bx-21by_w11_24_202406.exe",
+        "Version": "01",
+        "Date": {
+          "Unix": 1737014160000
+        }
+      },
+      {
+        "Name": "README (Version 24H2)",
+        "TypeString": "HTML",
+        "SHA256": "af1ca7ffb2c02b0ef4f3da3e1ed2df1bfab2b5727054d97afa46022a3f93d1c0",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_x13s_mt21bx-21by_w11_24_202406.html",
+        "Version": "01",
+        "Date": {
+          "Unix": 1737014220000
+        }
+      },
+      {
+        "Name": "SCCM Package (Version 21H2)",
+        "TypeString": "EXE",
+        "SHA256": "83640782d4ff21f3f50fda0878183727414de9ee60524d79994b2146188ea656",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_x13s_mt21bx-21by_w11_21_202209.exe",
+        "Version": "05",
+        "Date": {
+          "Unix": 1669788480000
+        }
+      },
+      {
+        "Name": "README (Version 21H2)",
+        "TypeString": "TXT README",
+        "SHA256": "c543e1910af7b4bbf93527c27188e47ee53dd08984981ca090752351d5bd98e3",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_x13s_mt21bx-21by_w11_21_202209.txt",
+        "Version": "05",
+        "Date": {
+          "Unix": 1669788480000
+        }
+      },
+      {
+        "Name": "SCCM Package (Version 22H2)",
+        "TypeString": "EXE",
+        "SHA256": "06893f35ef9f5371593d4d38befd2cb9a10ae2c38cad4f36af15b995ed5af842",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_x13s_mt21bx-21by_w11_22_202403.exe",
+        "Version": "07",
+        "Date": {
+          "Unix": 1712296260000
+        }
+      },
+      {
+        "Name": "README (Version 22H2)",
+        "TypeString": "HTML",
+        "SHA256": "ba40392cc89da45cbf989d081ec87ad38cd290478d11e22695bbc0670de9be77",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_x13s_mt21bx-21by_w11_22_202403.html",
+        "Version": "07",
+        "Date": {
+          "Unix": 1712296320000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package installs the Qualcomm ADSP Driver.",
+    "Title": "Qualcomm ADSP Driver on MEP for Windows 11 ARM (Version 22H2 or later) - ThinkPad X13s Gen 1",
+    "Files": [
+      {
+        "Name": "Qualcomm ADSP Driver",
+        "TypeString": "EXE",
+        "SHA256": "c8a700fb6934c6f5ce5ae3bb0261ca582ef5e1583d9429c194a08710e375b71e",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3ha810w.exe",
+        "Version": "1.0.12800.1",
+        "Date": {
+          "Unix": 1733376300000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "692d490b2fd39ac55c008093f37a833836b85cb2cb5b363a4b8eafa8e4d4c022",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3ha810w.html",
+        "Version": "1.0.12800.1",
+        "Date": {
+          "Unix": 1733376360000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package install the Qualcomm Snapdragon X55 5G Wireless WAN Driver",
+    "Title": "Qualcomm Snapdragon X55 5G Wireless WAN Driver for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Snapdragon X55 5G Wireless WAN Driver",
+        "TypeString": "EXE",
+        "SHA256": "0fe858733aed1a628a726f3102d00046ceda7a2782440a67a9673f048c942ea5",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hwj21w.exe",
+        "Version": "v025",
+        "Date": {
+          "Unix": 1719218040000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "dd602bcc234a4394344b9a4e6495ab5eaf4c3adc9910453fe1eb830fdb3d465f",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hwj21w.html",
+        "Version": "v025",
+        "Date": {
+          "Unix": 1719218100000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package installs the Qualcomm Integrated Camera Driver.",
+    "Title": "Qualcomm Integrated Camera Driver for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Integrated Camera Driver",
+        "TypeString": "EXE",
+        "SHA256": "e756c42d14fc7810965217aa44b21240b904123a530729cb756e5b82e8b9dbdf",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hcd20w.exe",
+        "Version": "3937.1125.0.0(Platform Device) /3937.1125.2.0(AVStream Device)",
+        "Date": {
+          "Unix": 1680074880000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "bf28d0737e3954eafda05a82d4dd70ab4a829329885ac7b12b816eab3d3c5406",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hcd20w.txt",
+        "Version": "3937.1125.0.0(Platform Device) /3937.1125.2.0(AVStream Device)",
+        "Date": {
+          "Unix": 1680074880000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package provides software for the Graphics Driver to enable the Qualcomm Adreno 8cx Gen 3 device.",
+    "Title": "Qualcomm Graphics Driver for Windows 11 ARM (Version 21H2) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Graphics Driver",
+        "TypeString": "EXE",
+        "SHA256": "85b174b5cb01ac6e05dcdbf4c4bff9ce71b8525f69e782825c9b5d0608e47a5a",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hdr15w.exe",
+        "Version": "30.0.3564.4300",
+        "Date": {
+          "Unix": 1668054600000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "ab4ee68f0a614998e9e2d18307928fa213201f9b2d6df97cdee51ea3a546527d",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hdr15w.txt",
+        "Version": "30.0.3564.4300",
+        "Date": {
+          "Unix": 1690422120000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package install the Qualcomm Aqstic Driver",
+    "Title": "Qualcomm Aqstic Driver for Windows 11 ARM (Version 21H2) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Aqstic Driver",
+        "TypeString": "EXE",
+        "SHA256": "7d1a682cd44c933bd87a4c26b6ae88c2de42e8f50751251415172ec31fa0cf1a",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3ha118w.exe",
+        "Version": "1.0.9300.18",
+        "Date": {
+          "Unix": 1670387880000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "3be66336b1bf65504edd2d9d8e567df6d5fc6d795f57d7e807a097267cc180f9",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3ha118w.txt",
+        "Version": "1.0.9300.18",
+        "Date": {
+          "Unix": 1670387940000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package provides the software for Qualcomm Boot Critical Drivers.",
+    "Title": "Qualcomm Boot Critical Drivers for Windows 11 ARM (Version 22H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Boot Critical Drivers",
+        "TypeString": "EXE",
+        "SHA256": "adc46aa316f16c3ad940c6d8f78e96dc77b1b24f90f8875325382dcc5387aed6",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hqc17w.exe",
+        "Version": "1.14",
+        "Date": {
+          "Unix": 1762757400000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "72e6bb65748f68a43b5640b12b1d26f000b4efdb850523358a03d9735b1b03c5",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hqc17w.html",
+        "Version": "1.14",
+        "Date": {
+          "Unix": 1762757460000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package provides the Qualcomm Wireless LAN Driver.",
+    "Title": "Qualcomm Wireless LAN Driver for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Wireless LAN Driver",
+        "TypeString": "EXE",
+        "SHA256": "a2423a1374ef02fe4ed0bef92ef6546447e568273e98ccae60cabb935d7fc25f",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hwl22w.exe",
+        "Version": "1.0.4195.6501",
+        "Date": {
+          "Unix": 1751942220000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "544cda7ef75d2ffc3e9037f06115e19911e648a1667453b0add821da7152d7fa",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hwl22w.html",
+        "Version": "1.0.4195.6501",
+        "Date": {
+          "Unix": 1751942220000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package install the Qualcomm Bluetooth Driver",
+    "Title": "Qualcomm Bluetooth Driver for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Bluetooth Driver",
+        "TypeString": "EXE",
+        "SHA256": "388bf7ca125833729fed7eced365501473404efbb97604ef002854b6f1b8d144",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hww15w.exe",
+        "Version": "1.0.4195.6500",
+        "Date": {
+          "Unix": 1757585040000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "ca63de8c2e8260512bce07f817a08ad5bb4e0e3ae9ec4f08899659deb44d8bc2",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hww15w.html",
+        "Version": "1.0.4195.6500",
+        "Date": {
+          "Unix": 1757585100000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "HSA (Hardware Support Application) Packs are self-extracting executable files which contain the UWP application package files for HSAs related to DCH compliant hardware drivers(also known as 'modern drivers') for ThinkPad platform.",
+    "Title": "HSA Package for Windows 11 ARM (Version 21H2, 22H2) - ThinkPad X13s",
+    "Files": [
+      {
+        "Name": "HSA Package for Windows 11 (Version 21H2)",
+        "TypeString": "EXE",
+        "SHA256": "a2260a041b29d3f69486c114ff7371cbcbc47e34143cf2530fc0d45400bf16e6",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_x13s_mt21bx-21by_hsa_w11_21_202205.exe",
+        "Version": "01",
+        "Date": {
+          "Unix": 1653283254000
+        }
+      },
+      {
+        "Name": "README for Windows 11 (Version 21H2)",
+        "TypeString": "TXT README",
+        "SHA256": "794050e6f04751fedf1773ba5740b2486104e0b4751f44164d082ebd4e0b1f31",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_x13s_mt21bx-21by_hsa_w11_21_202205.txt",
+        "Version": "01",
+        "Date": {
+          "Unix": 1653283380000
+        }
+      },
+      {
+        "Name": "HSA Package for Windows 11 (Version 22H2)",
+        "TypeString": "EXE",
+        "SHA256": "1f67754d348924beb4da21bd94103fcd3e5314ec2659bd815e6011da10b4c306",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_x13s_mt21bx-21by_hsa_w11_22_202211.exe",
+        "Version": "01",
+        "Date": {
+          "Unix": 1678155660000
+        }
+      },
+      {
+        "Name": "README for Windows 11 (Version 22H2)",
+        "TypeString": "TXT README",
+        "SHA256": "f8b89a66359b071cc0cb74275dcbac82fdf998918165cd2ec8bed3110d434bc8",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/tp_x13s_mt21bx-21by_hsa_w11_22_202211.txt",
+        "Version": "01",
+        "Date": {
+          "Unix": 1678156680000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package provides the software for Qualcomm Boot Critical Drivers.",
+    "Title": "Qualcomm Boot Critical Drivers for Windows 11 ARM (Version 21H2) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Boot Critical Drivers",
+        "TypeString": "EXE",
+        "SHA256": "55d130049e85d658bb041e6e69041417edaec5678a9b151f1279007f0b542f23",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hqb39w.exe",
+        "Version": "1.6",
+        "Date": {
+          "Unix": 1686579240000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "c4a595501c27b61256e821427d769b3797141fded21cbd0726627d663fed8746",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hqb39w.txt",
+        "Version": "1.6",
+        "Date": {
+          "Unix": 1686579240000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package install the Lenovo Power and Battery Driver",
+    "Title": "Lenovo Power and Battery Driver for Windows 11 ARM (Version 21H2 or later) - ThinkPad",
+    "Files": [
+      {
+        "Name": "Lenovo Power and Battery Driver",
+        "TypeString": "EXE",
+        "SHA256": "145e973e2e170896adca286ccf77e488d14169cd55b22e24f3aa31bbd4688809",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n1fupa3w.exe",
+        "Version": "10.1.10.0",
+        "Date": {
+          "Unix": 1727960460000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "8c31f92cce3a6e45d5abb74dc3c6034689f671a235df7ee5502d1b1481c103d7",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n1fupa3w.html",
+        "Version": "10.1.10.0",
+        "Date": {
+          "Unix": 1737958260000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package install the Qualcomm Other Drivers",
+    "Title": "Qualcomm Other Drivers for Windows 11 ARM (Version 21H2) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Other Drivers",
+        "TypeString": "EXE",
+        "SHA256": "5a948e0619c7872e859b4fc060437f4cf8d7e46e7d76d8521f8f4095ae524a37",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hqt12w.exe",
+        "Version": "1.0.3464.7300",
+        "Date": {
+          "Unix": 1660795740000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "48a04222570ab5e072847150822a5a18a0e9e32241ee0c8e9691cfc02a46ca8c",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hqt12w.txt",
+        "Version": "1.0.3464.7300",
+        "Date": {
+          "Unix": 1676973960000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package install the WMI for ACPI Bridge Device Driver",
+    "Title": "WMI for ACPI Bridge Device Driver for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s",
+    "Files": [
+      {
+        "Name": "WMI for ACPI Bridge Device Driver",
+        "TypeString": "EXE",
+        "SHA256": "8cf28754f00f5d432b52cba40c95bc21f7cbfea58eec304ea82a67b563c110eb",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hab09w.exe",
+        "Version": "15.53.1006.11091",
+        "Date": {
+          "Unix": 1705047300000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "78467f2a9575dada0e12ef254eadef1eee93a549fd2890e10d27d185544d8aba",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hab09w.html",
+        "Version": "15.53.1006.11091",
+        "Date": {
+          "Unix": 1705047360000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package installs the Lenovo USB-C Port Replicator Realtek SD Card Driver.",
+    "Title": "Lenovo USB-C Port Replicator Realtek SD Card Driver for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Lenovo USB-C Port Replicator Realtek SD Card Driver",
+        "TypeString": "EXE",
+        "SHA256": "f8ebe3887a48a89464d7b3fd7678bb90d7ebcb40f7e6b2f416bd646d6b34b92f",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hxp04w.exe",
+        "Version": "10.0.26100.31288",
+        "Date": {
+          "Unix": 1742372760000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "31b2804acfe3b933755b4a79ff4144b03ce07fe74e0843d46fe586eae2537a7c",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hxp04w.html",
+        "Version": "10.0.26100.31288",
+        "Date": {
+          "Unix": 1742372820000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package provides the Synaptics Power Button MIS Touch Fingerprint Reader Driver.",
+    "Title": "Synaptics Power Button MIS Touch Fingerprint Reader Driver for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Types 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Synaptics Power Button MIS Touch Fingerprint Reader Driver",
+        "TypeString": "EXE",
+        "SHA256": "34395a6f736df721f1b100bbdc28dca3af885a199efb57655eba83029a817e29",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hgf05w.exe",
+        "Version": "6.0.8.1148_v2",
+        "Date": {
+          "Unix": 1689217560000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "bac800bc1bcdd846ce00738d46e9c24fc6fc1f087e4f802f241ec2e905c24110",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hgf05w.txt",
+        "Version": "6.0.8.1148_v2",
+        "Date": {
+          "Unix": 1689217860000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package provides the ELAN TrackPoint Driver.",
+    "Title": "ELAN TrackPoint Driver for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "ELAN TrackPoint Driver",
+        "TypeString": "EXE",
+        "SHA256": "06b438409d4717649868303971d3237b5311b3691ff94816c250b1c69e4fb409",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hg205w.exe",
+        "Version": "37.21.3.1",
+        "Date": {
+          "Unix": 1681225560000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "214ea149448f72df0d7b9455ce324c89922763bb19dc4c3d389346029d527e71",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hg205w.txt",
+        "Version": "37.21.3.1",
+        "Date": {
+          "Unix": 1681225560000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package install the Qualcomm SAR Manager Extension Driver",
+    "Title": "Qualcomm SAR Manager Extension Driver for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm SAR Manager Extension Driver",
+        "TypeString": "EXE",
+        "SHA256": "b85ba15d0f62e7968dc8f54d09b5251bab9e13ca4b402d263777b97f4081bef3",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hqm04w.exe",
+        "Version": "1.22.829.525",
+        "Date": {
+          "Unix": 1667366040000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "b33a9eea91224c9249590de128b502a294bb818447945144add321644de52ac8",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hqm04w.txt",
+        "Version": "1.22.829.525",
+        "Date": {
+          "Unix": 1667366100000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package provides the software for P-Sensor Driver.",
+    "Title": "P-Sensor Driver for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Types 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "P-Sensor Driver",
+        "TypeString": "EXE",
+        "SHA256": "4bbdae19d2c24472c6d30ec26ecaa9535bbdab350467ecc1b298d49649af261e",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hqp05w.exe",
+        "Version": "0.1.0.15",
+        "Date": {
+          "Unix": 1672199040000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "1220abf49c79e307d48f5d368a35ba4f2889e6904169f879913d9e8b196108db",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hqp05w.txt",
+        "Version": "0.1.0.15",
+        "Date": {
+          "Unix": 1672199100000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package installs the ThinkPad Monitor INF File.",
+    "Title": "ThinkPad Monitor INF File for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Types 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "ThinkPad Monitor INF File",
+        "TypeString": "EXE",
+        "SHA256": "7eb76fa8014295a8bae904b63551768170f0f54e82210351036e5cd0bc43308e",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hoi04w.exe",
+        "Version": "6.14.19.0",
+        "Date": {
+          "Unix": 1690351740000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "d05cd7ce95d6824369ba8cebf77477b15f59c3b2b78671e5e309e59e4f1c3bb5",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hoi04w.txt",
+        "Version": "6.14.19.0",
+        "Date": {
+          "Unix": 1690351740000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package provides the Touch I2C Extension Driver.",
+    "Title": "Touch I2C Extension Driver for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Types 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Touch I2C Extension Driver",
+        "TypeString": "EXE",
+        "SHA256": "0646a9371e3e2ea8666ec97c47dd1110bf59eafdc279ea239eb9652e125b04dc",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hgt04w.exe",
+        "Version": "1.0.3266.5603",
+        "Date": {
+          "Unix": 1650514980000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "23af9d5853016518b0169b767c2b1a48a6a2fc3a6f67657ad25cacd1ec3ca8d5",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hgt04w.txt",
+        "Version": "1.0.3266.5603",
+        "Date": {
+          "Unix": 1650513060000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "  This package installs the software  to enable the Qualcomm Thermal MDM Devices.",
+    "Title": "Qualcomm Thermal MDM Devices Software for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Types 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Thermal MDM Devices Software",
+        "TypeString": "EXE",
+        "SHA256": "d85c4436eff27f31f85cbecdcebf0af2b31d07fc3e01304b7df87b77edd1c857",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hwq07w.exe",
+        "Version": "4.0.1.4",
+        "Date": {
+          "Unix": 1706537760000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "ef044ab33a0d5ee011b5698ad47d43e65efd665ed46fa6a9b8ce4ba13659a16a",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hwq07w.html",
+        "Version": "4.0.1.4",
+        "Date": {
+          "Unix": 1706537760000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package install the Elantech TrackPoint Firmware",
+    "Title": "Elantech TrackPoint Firmware for Windows 11 ARM (Version 21H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Elantech TrackPoint Firmware",
+        "TypeString": "EXE",
+        "SHA256": "9a362326f7ae72a739dcea26d118074dae0c05fa30a94516eba90ff25aaa0f34",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hg501w.exe",
+        "Version": "30000",
+        "Date": {
+          "Unix": 1668060300000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "5083e92e4223bd36d06dea96bb520d6d6512793545e7d540881856020952b094",
+        "Priority": "Critical",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hg501w.txt",
+        "Version": "30000",
+        "Date": {
+          "Unix": 1668060300000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Lenovo Service Tool Center software is an universal tool center platform for lenovo service team (The unzip password is LenovoLSTC).",
+    "Title": "LSTC - Lenovo Service Tool Center Utility",
+    "Files": [
+      {
+        "Name": "LSTC - Lenovo Service Tool Center Utility",
+        "TypeString": "RAR",
+        "SHA256": "8f47526fd2560f1fa264e5dd25c3655406686187d6aaa930e52b9b2a2212375d",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs\\LSTC\\lstc_v2.0.27.rar?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "V2.0.27",
+        "Date": {
+          "Unix": 1758075780000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "This package provides the software for Glance HPD Driver supporting  Qualcomm Always On Computer Vision Sensor and Qualcomm Human Presence Sensor devices",
+    "Title": "Qualcomm Glance HPD Driver for Windows 11 ARM (Version 22H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Glance HPD Driver",
+        "TypeString": "EXE",
+        "SHA256": "f8c3dc0f71a5f3cd329510a1d8ab78041dc607931fbbe9d9737799fec97ecfe5",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hgc15w.exe",
+        "Version": "1.0.3606.5400",
+        "Date": {
+          "Unix": 1690515780000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "1787ec9876792d260c92564f7d5ad613957aa426e1ec6697405210032e40cf14",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hgc15w.txt",
+        "Version": "1.0.3606.5400",
+        "Date": {
+          "Unix": 1690515780000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Support devices: Qualcomm other drivers",
+    "Title": "Qualcomm Other Drivers for Windows 11 ARM (Version 22H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Other Drivers",
+        "TypeString": "EXE",
+        "SHA256": "235144b5b58c0a21837a44c179da6c4621da79578d9fd6020c308d26774b86db",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hqu04w.exe",
+        "Version": "1.0.3551.9400 - 1.0.3551.9403",
+        "Date": {
+          "Unix": 1699257420000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "7a5bea887772453f32b150724cc66c508753cfb28a5584678b6b27fcd05864f8",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hqu04w.txt",
+        "Version": "1.0.3551.9400 - 1.0.3551.9403",
+        "Date": {
+          "Unix": 1699257420000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Support device: BOE NV133WUM-T01",
+    "Title": "Firmware Update for BOE Panel for Windows 11 - ThinkPad X13s (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Firmware Update for BOE Panel",
+        "TypeString": "EXE",
+        "SHA256": "9da8d8b0257229cc64f7fd6a4cef6d1524e13de6cd9eb1c0ef3646ce076ac514",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hpg01w_v2.exe",
+        "Version": "n3hpg01w_v2",
+        "Date": {
+          "Unix": 1688486160000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "TXT README",
+        "SHA256": "538db0d8f017d091828ebc286e9229878858a76a513ea17664376188585c9e49",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hpg01w_v2.txt",
+        "Version": "n3hpg01w_v2",
+        "Date": {
+          "Unix": 1688486220000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "The latest version of the content has been removed for updating. Until it is reposted, a previous version of the content has been made available for your use. Reason: Possible BSOD may be encountered during installation of the driver.",
+    "Title": "Qualcomm Graphics Driver for Windows 11 ARM (Version 22H2 or later) - ThinkPad X13s Gen 1 (Type 21BX, 21BY)",
+    "Files": [
+      {
+        "Name": "Qualcomm Graphics Driver",
+        "TypeString": "EXE",
+        "SHA256": "270ca5f6e28e9e3a707c777e55a1878d8b3dc7c714b9174508446e5ea689c046",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hdr20w.exe",
+        "Version": "30.0.3851.4800",
+        "Date": {
+          "Unix": 1703856300000
+        }
+      },
+      {
+        "Name": "README",
+        "TypeString": "HTML",
+        "SHA256": "64082dde7f8a469a2b88770d6d882d487b4e6e7c6d4dcff6769acaa1760e28c2",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/pccbbs/mobiles/n3hdr20w.html",
+        "Version": "30.0.3851.4800",
+        "Date": {
+          "Unix": 1703856360000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Lenovo Diagnostics Windows Engineer Version is a hardware Diagnostics tool for Lenovo Servicer use ONLY",
+    "Title": "Lenovo Diagnostics for Windows Engineer Version - Desktops, Notebooks, Workstations",
+    "Files": [
+      {
+        "Name": "Release Note (Windows ARM)",
+        "TypeString": "TXT README",
+        "SHA256": "00ecfcf1b9d98d0f8083f2177658380684fb039a2a74d8263238ca43a196343b",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DIAGSWIN/ldiag_1.17.0_release_notes.txt?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "1.17.0",
+        "Date": {
+          "Unix": 1765963320000
+        }
+      },
+      {
+        "Name": "Internal Guide (Windows ARM)",
+        "TypeString": "PDF",
+        "SHA256": "9cd4cea5102186dada01acc9ad30c3e601b0d2d484b8bcc0714c9a5d64b1a611",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DIAGSWIN/ldiag_1.17.0_internal_guide.pdf?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "1.17.0",
+        "Date": {
+          "Unix": 1765963380000
+        }
+      },
+      {
+        "Name": "Lenovo Diagnostics Evolution (Windows ARM)",
+        "TypeString": "zip",
+        "SHA256": "54332b7937d23c3a08b0593bde0553ba04ab66b08c86f9605c0b4872070087ec",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DIAGSWIN/ldiag_1.17.0_windows_arm64_portable.zip?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "1.17.0",
+        "Date": {
+          "Unix": 1767780300000
+        }
+      },
+      {
+        "Name": "Lenovo Diagnostics Evolution",
+        "TypeString": "zip",
+        "SHA256": "c5b264c3fd6732807f0d06abdfb5e83456e508dd6d0b36b70296b12c29e867df",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DIAGSWIN/ldiag_5.25.0_windows_x64_portable.zip?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "5.25.0",
+        "Date": {
+          "Unix": 1767780120000
+        }
+      },
+      {
+        "Name": "Release Note",
+        "TypeString": "TXT README",
+        "SHA256": "ebdd350c06b3041c3bde94f1a3f5977a5228475b74a44d3cba090575ff099af9",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DIAGSWIN/ldiag_5.25.0_release_notes.txt?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "5.25.0",
+        "Date": {
+          "Unix": 1767780180000
+        }
+      },
+      {
+        "Name": "Internal Guide (Windows)",
+        "TypeString": "PDF",
+        "SHA256": "54381352272e82fe83320ab25462050a370bf6e2671a74422c2c9dace20b5041",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DIAGSWIN/ldiag_5.25.0_internal_guide.pdf?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "5.25.0",
+        "Date": {
+          "Unix": 1767780240000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Lenovo Diagnostics Linux Engineer Version is a hardware Diagnostics tool for Lenovo Servicer use ONLY",
+    "Title": "Lenovo Diagnostics Linux Engineer Version (Bootable USB) - Desktops, Notebooks, Workstations",
+    "Files": [
+      {
+        "Name": "Bootable Generator",
+        "TypeString": "EXE",
+        "SHA256": "80fd3a021d4156a0bd8aea7b38c0c48168647bba8fcf3343b1ccbd6367387cbb",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DiagsLinux/lenovo_bootable_generator_2.1.1.exe?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "2.1.1",
+        "Date": {
+          "Unix": 1732707103000
+        }
+      },
+      {
+        "Name": "Lenovo Diagnostics Linux - Bootable USB",
+        "TypeString": "ISO",
+        "SHA256": "7f2f0d80c8daf30037f200f223f52fa437df910f496c43b96f563ae16d5a6edf",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DiagsLinux/ldiag_4.63.1_linux_engineer.iso?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "4.63.1",
+        "Date": {
+          "Unix": 1757319720000
+        }
+      },
+      {
+        "Name": "Release Note",
+        "TypeString": "TXT README",
+        "SHA256": "0149524a76aee5261e1a785081390132bf45b6a23b6a69704e8a4dfc64649c5a",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DiagsLinux/ldiag_4.63.1_linux_engineer_releasenotes.txt?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "4.63.1",
+        "Date": {
+          "Unix": 1757319780000
+        }
+      },
+      {
+        "Name": "User Guide",
+        "TypeString": "PDF",
+        "SHA256": "184dfe7c9ae7d468b3716d7df8bf09d6080f8cd75a8d0b034d66b987b60091a9",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DiagsLinux/ldiag_4.63.1_linux_engineer_userguide.pdf?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "4.63.1",
+        "Date": {
+          "Unix": 1757319900000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Lenovo Diagnostics UEFI Engineer Version is a hardware Diagnostics tool for Lenovo Servicer use ONLY",
+    "Title": "Lenovo Diagnostics UEFI Engineer Version (Bootable USB) - Desktops, Notebooks, Workstations",
+    "Files": [
+      {
+        "Name": "Lenovo Diagnostics UEFI (x64)",
+        "TypeString": "zip",
+        "SHA256": "161435b88ba1f14dd7a3500304d5f8c454a061760cba80083e19fece9a2c5f1c",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DiagsUEFI/ldiag_04.44.000_engineer_uefi_x64.zip?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "04.44.000",
+        "Date": {
+          "Unix": 1763453640000
+        }
+      },
+      {
+        "Name": "User Guide for x64",
+        "TypeString": "PDF",
+        "SHA256": "12aa6915d2930b5f85d6d5e68b1223c394c9895a693a08b5d1599833911818e9",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DiagsUEFI/ldiag_04.44.000_engineer_uefi_x64_userguide.pdf?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "04.44.000",
+        "Date": {
+          "Unix": 1763453700000
+        }
+      },
+      {
+        "Name": "Lenovo Diagnostics UEFI (ARM)",
+        "TypeString": "zip",
+        "SHA256": "569e8dec57837f83e60925218d70b75e42bfd4d3d6c217f8dfc962a14512490b",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DiagsUEFI/ldiag_04.44.000_engineer_uefi_arm.zip?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "04.44.000",
+        "Date": {
+          "Unix": 1763453760000
+        }
+      },
+      {
+        "Name": "User Guide for ARM",
+        "TypeString": "PDF",
+        "SHA256": "014244cec81dd45dd03d929368beae33b353c8900084c065cf1b301b71fe1ea6",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DiagsUEFI/ldiag_04.44.000_engineer_uefi_arm_userguide.pdf?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "04.44.000",
+        "Date": {
+          "Unix": 1763453760000
+        }
+      },
+      {
+        "Name": "Release Note",
+        "TypeString": "TXT README",
+        "SHA256": "c75d83286c6db0a29a3c0f67e1b11dca1420ec873f7dcfe2d8a377cdd7b056d9",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DiagsUEFI/ldiag_04.44.000_engineer_uefi_releasenotes.txt?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "04.44.000",
+        "Date": {
+          "Unix": 1763453820000
+        }
+      },
+      {
+        "Name": "Lenovo Bootable Generator",
+        "TypeString": "EXE",
+        "SHA256": "80fd3a021d4156a0bd8aea7b38c0c48168647bba8fcf3343b1ccbd6367387cbb",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/auth/dfs/DiagsUEFI/lenovo_bootable_generator2.1.1.exe?__token__=exp=1769070354~acl=/auth/dfs/*!/auth/shim/*!/auth/VSeries/*!/auth/think_secure/*!/auth/Hyperscale/*~data=LID=87e5d57e-a1ef-4a44-b880-97c70d717f48~hmac=fba6ced886b64ffd90b5fb863308243da425c5fc9a2d279ce89c5045266d4dcb",
+        "Version": "04.44.000",
+        "Date": {
+          "Unix": 1733465940000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Diagnostic Tool for ThinkPad X13s Gen 1",
+    "Title": "Diagnostic Tool for ThinkPad X13s Gen 1",
+    "Files": [
+      {
+        "Name": "x13s_diagnostic_tool_v1.0",
+        "TypeString": "zip",
+        "SHA256": "8d801d5c905bf9afb21540a083bcebae13096247bd3aed328d734b342486d088",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/consumer/mobiles/x13s_diagnostic_tool_v1.0.zip",
+        "Version": "1.0",
+        "Date": {
+          "Unix": 1651889280000
+        }
+      },
+      {
+        "Name": "PDF",
+        "TypeString": "PDF",
+        "SHA256": "b262dbd3f19938744dd6e234dd3dbdc8e2fc9981bcd0d04766a46ad329cad52b",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/consumer/mobiles/wos_function_test_sop_v04.pdf",
+        "Version": "1.0",
+        "Date": {
+          "Unix": 1651889340000
+        }
+      }
+    ]
+  },
+  {
+    "Summary": "Eagle Qualcomm QDART Package (Only for mmWave SKU)",
+    "Title": "Eagle Qualcomm QDART Package (Only for mmWave SKU)",
+    "Files": [
+      {
+        "Name": "Eagle Qualcomm QDART Package",
+        "TypeString": "zip",
+        "SHA256": "f516e2dcf3a1e359b246b75b9c90f6933c8fcdd3d099c3069add90fdfcff430b",
+        "Priority": "Recommended",
+        "URL": "https://download.lenovo.com/consumer/mobiles/eagle_mmwave_sku_qualcomm_qdart_package.zip",
+        "Version": "V1",
+        "Date": {
+          "Unix": 1656991800000
+        }
+      }
+    ]
+  }
+]
