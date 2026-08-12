@@ -180,14 +180,14 @@ in
     );
 
     systemd.services.bluetooth-x13s-mac = lib.mkIf (cfg.bluetoothMac != null) {
-      wantedBy = [ "bluetooth.service" ];
-      # before = [ "bluetooth.service" ];
+      wantedBy = [ "multi-user.target" ];
+      before = [ "bluetooth.service" ];
       requiredBy = [ "bluetooth.service" ];
 
       serviceConfig = {
         Type = "oneshot";
         RemainAfterExit = true;
-        ExecStart = "${pkgs.util-linux}/bin/script -q -c '${pkgs.bluez}/bin/btmgmt --index 0 public-addr ${cfg.bluetoothMac}'";
+        ExecStart = "${pkgs.util-linux}/bin/script -q -c '${pkgs.bluez}/bin/btmgmt --index hci0 public-addr ${cfg.bluetoothMac}'";
       };
     };
   };
