@@ -174,19 +174,23 @@ in
               ACTION=="add", SUBSYSTEM=="net", KERNELS=="0006:01:00.0", RUN+="${pkgs.iproute2}/bin/ip link set dev $name address ${cfg.wifiMac}"
             ''
           ]
-        else if cfg.bluetoothMac != null then
-          [
-            ''
-              ACTION=="add", SUBSYSTEM=="bluetooth", ENV{DEVTYPE}=="host" \
-              TAG+="systemd", ENV{SYSTEMD_WANTS}="bluetooth-x13s-mac@%k.service"
-            ''
-          ]
+        # else if cfg.bluetoothMac != null then
+        #   [
+        #     ''
+        #       ACTION=="add", SUBSYSTEM=="bluetooth", ENV{DEVTYPE}=="host" \
+        #       TAG+="systemd", ENV{SYSTEMD_WANTS}="bluetooth-x13s-mac@%k.service"
+        #     ''
+        #   ]
         else
           [ ]
       )
     );
 
     systemd.services.bluetooth-x13s-mac = lib.mkIf (cfg.bluetoothMac != null) {
+      wantedBy = [ "multi-user.target" ];
+      before = [ "bluetooth.service" ];
+      requiredBy = [ "bluetooth.service" ];
+
       serviceConfig = {
         Type = "oneshot";
         RemainAfterExit = true;
