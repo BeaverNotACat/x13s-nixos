@@ -178,7 +178,6 @@ in
           [
             ''
               ACTION=="add", SUBSYSTEM=="bluetooth", ENV{DEVTYPE}=="host" \
-              ENV{DEVPATH}=="*/serial[0-9]*/serial[0-9]*/bluetooth/hci[0-9]*", \
               TAG+="systemd", ENV{SYSTEMD_WANTS}="bluetooth-x13s-mac@%k.service"
             ''
           ]
