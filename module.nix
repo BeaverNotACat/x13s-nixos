@@ -181,11 +181,14 @@ in
 
     systemd.services.bluetooth-x13s-mac = lib.mkIf (cfg.bluetoothMac != null) {
       requires = [ "sys-subsystem-bluetooth-devices-hci0.device" ];
-      after = [ "sys-subsystem-bluetooth-devices-hci0.device" ];
 
       wantedBy = [ "bluetooth.service" ];
       requiredBy = [ "bluetooth.service" ];
-      before = [ "bluetooth.service" ];
+
+      after = [
+        "sys-subsystem-bluetooth-devices-hci0.device"
+        "bluetooth.service"
+      ];
 
       serviceConfig = {
         Type = "oneshot";
