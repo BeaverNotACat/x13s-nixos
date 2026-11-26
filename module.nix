@@ -75,7 +75,6 @@ in
     hardware.firmware = lib.mkBefore [ pkgs.x13s.firmware.graphics ];
 
     boot = {
-      initrd.systemd.enable = true;
       initrd.systemd.contents = {
         "/lib".source = lib.mkForce "${modulesWithExtra}/lib";
       };
